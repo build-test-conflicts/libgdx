@@ -1,9 +1,6 @@
 sudo: true
 git:
   depth: 1
-branches:
-  only:
-    - master
 
 matrix:
   include:
